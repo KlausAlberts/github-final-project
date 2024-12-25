@@ -5,9 +5,18 @@ annual rate of interest and time period in years.
 
 ## Installation
 
-On Linux, logon with your user account and open a terminal with <CTRL> + <ALT> + <T>. In this terminal, create a new directory /home/<your_username>/git_repos, if not exists.
-Then change the directory in the terminal to /home/<your_username>/git_repos and clone When finished, clone the Repository to.
-sudo chmod +x simple-interest.sh
+Log in to your Linux user account. Then open a terminal and create a new directory with the 
+command ```bash mkdir /home/<your_username>/git_repos. Replace <your_username> with your user name```.
+
+Then change to the directory /home/<your_username>/git_repos and clone the repository 
+https://github.com/KlausAlberts/github-final-project.git into this directory.
+
+To make the shell script executable, change the file attribute with ```bash chmod +x simple-interest.sh```.
+
+## Run
+
+Run the script using ```bash ./simple-interest.sh```.
+
 ## Usage
 
 Input:
