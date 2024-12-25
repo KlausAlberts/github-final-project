@@ -5,9 +5,9 @@ annual rate of interest and time period in years.
 
 ## Installation
 
-Under Linux, first create a new folder named /home/<your_username>/git_repos, if not exists.
-After finished, clone the Repository to /home/<your_username>/git_repos.
-
+On Linux, logon with your user account and open a terminal with <CTRL> + <ALT> + <T>. In this terminal, create a new directory /home/<your_username>/git_repos, if not exists.
+Then change the directory in the terminal to /home/<your_username>/git_repos and clone When finished, clone the Repository to.
+sudo chmod +x simple-interest.sh
 ## Usage
 
 Input:
