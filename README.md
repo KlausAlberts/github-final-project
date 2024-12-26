@@ -30,9 +30,8 @@ Output
 
 ## Contributing   
 
-Contributors are very wellcome. For further details see Link below.
-
-[Contributing](./CONTRIBUTING.md)   
+Please read our [contribution guidelines](./CONTRIBUTING.md) for details of how you can get involved, 
+and [Code of Conduct](./CODE_OF_CONDUCT.md) for information about how to participate.
 
 ## License
 
