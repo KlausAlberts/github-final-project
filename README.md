@@ -29,7 +29,7 @@ Output
 
 Contributors are very wellcome. For further details see Link below.
 
-[Contributing](/Contributing.md)   
+[Contributing](./Contributing.md)   
 
 ## License
 
